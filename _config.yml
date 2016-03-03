@@ -1,0 +1,28 @@
+name: Ryan Holiday
+favicon: null
+layout_spectrum: 0.4462287458591163
+typography_spectrum: 0.020756690995767713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.32487398805096745
+  lightness: 0.16560633294284344
+  saturation: 0.16585659724660218
+  rhythmicContrast: 0.5826354620512575
+purpose: []
