@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ryan Holiday]]></title>
         <description><![CDATA[Ryan Holiday]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ryan-holiday/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 18:06:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 18:18:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ryan-holiday/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53ebd452-9f8a-4d56-8de8-3c71c38c13de.jpg">]]></description>
+            <link>https://thegrid.ai/ryan-holiday/467483a3-9cd2-4e7f-ac47-b0c6dd776095/index.html</link>
+            <guid isPermaLink="false">467483a3-9cd2-4e7f-ac47-b0c6dd776095</guid>
+            <pubDate>Thu, 03 Mar 2016 18:18:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Perspectives</p>]]></description>
-            <link>undefined80f4556f-2daf-41e8-81a1-798150ba63db/index.html</link>
+            <link>https://thegrid.ai/ryan-holiday/80f4556f-2daf-41e8-81a1-798150ba63db/index.html</link>
             <guid isPermaLink="false">80f4556f-2daf-41e8-81a1-798150ba63db</guid>
             <pubDate>Thu, 03 Mar 2016 18:06:12 GMT</pubDate>
         </item>
