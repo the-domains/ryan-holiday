@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Electronic Loop Artist]]></title>
         <description><![CDATA[Electronic Loop Artist]]></description>
-        <link>https://thegrid.ai/ryan-holiday/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 13:57:30 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/ryan-holiday/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 14:04:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53ebd452-9f8a-4d56-8de8-3c71c38c13de.jpg">]]></description>
-            <link>https://thegrid.ai/ryan-holiday/467483a3-9cd2-4e7f-ac47-b0c6dd776095/index.html</link>
-            <guid isPermaLink="false">467483a3-9cd2-4e7f-ac47-b0c6dd776095</guid>
-            <pubDate>Thu, 03 Mar 2016 18:18:50 GMT</pubDate>
+            <description><![CDATA[<p>The first draft Ever</p>]]></description>
+            <link>undefinedthe-first-draft-ever/index.html</link>
+            <guid isPermaLink="false">b719335d-91a1-4420-b0e5-db3b066db4c3</guid>
+            <pubDate>Thu, 30 Jun 2016 14:04:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
