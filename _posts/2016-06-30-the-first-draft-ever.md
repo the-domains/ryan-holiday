@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The first draft Ever
-datePublished: '2016-06-30T14:04:35.346Z'
-dateModified: '2016-06-30T14:04:18.460Z'
-authors: []
-publisher: null
+datePublished: '2016-06-30T14:04:59.604Z'
+dateModified: '2016-06-30T14:04:40.871Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-30-the-first-draft-ever.md
+authors: []
+publisher: null
+starred: false
 url: the-first-draft-ever/index.html
 _type: Article
 
